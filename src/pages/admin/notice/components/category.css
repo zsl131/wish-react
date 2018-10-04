@@ -1,0 +1,18 @@
+.main {
+
+}
+.singleCate {
+  margin:10px 15px 15px 0px;
+}
+
+.singleCate b {
+  padding: 0px 8px; margin-right: 8px; border: 1px #eee solid; border-radius: 4px; padding: 5px; width: 160px;
+}
+
+.cateName {
+  width:100px;
+}
+
+.addBtn {
+  width:100%; padding-top:15px;
+}

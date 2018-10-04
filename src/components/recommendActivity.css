@@ -1,0 +1,19 @@
+.singleActivity {
+  width:100%; border-bottom:1px #eaeaea solid; float:left; margin-bottom: 10px; padding-bottom: 10px; position: relative;
+}
+.img {
+  width: 25%; float:left;
+}
+.img img {
+  width: 100%; background: #f3f3f3; padding: 4px;
+}
+.content {
+  width: 75%; float:right; padding: 5px 10px 0px 10px;
+}
+.showDate {
+  position: absolute; bottom: 1px;
+}
+
+.titleHref {
+  color: #26aad0;
+}

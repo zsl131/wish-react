@@ -1,0 +1,17 @@
+
+img.wxLogo {
+  height: 40px; margin:5px 10px 5px 12px; float:left;
+}
+
+.userInfo {
+  float:right; padding-right:5px; color:#FFF;
+}
+
+.accountAvator {
+  width:25px; height: 25px; margin-right:5px; margin-top: -5px;
+}
+
+
+.templateNavBar {
+  background:#fac92a; border-bottom: 5px solid #ffa61e; height: 55px; padding:0px; line-height: 55px;
+}
