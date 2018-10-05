@@ -47,7 +47,7 @@ export default {
     *onSynch ({ payload: obj }, { call, put }) {
       const data = yield call(accountService.onSynch, {id: obj.id});
       if(data) { message.success("同步成功"); }
-      yield put({ type: 'onSynchPage', payload: data.datas });
+      yield put({ type: 'onSynchPage', payload: data.obj });
     }
   },
   subscriptions: {

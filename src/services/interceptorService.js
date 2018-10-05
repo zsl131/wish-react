@@ -9,8 +9,6 @@ function queryLoginAccount(code) {
 }
 
 export {
-  /*loadAppConfig,
-  loadWxConfig,*/
   queryLoginAccount,
   loadWebBaseConfig,
 }
